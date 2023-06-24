@@ -1,14 +1,14 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: harshvardhanmishra1611.github.io/card-for-prayag
+favicon: /-/harshvardhanmishra1611.github.io/card-for-prayag/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: harshvardhanmishra1611.github.io/card-for-prayag/FASTN/ds
+-- fastn.auto-import: harshvardhanmishra1611.github.io/card-for-prayag/assets
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:
